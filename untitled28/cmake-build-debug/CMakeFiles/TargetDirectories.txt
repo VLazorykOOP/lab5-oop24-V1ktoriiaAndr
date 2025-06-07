@@ -1,0 +1,3 @@
+D:/Університетські роботи/Алгоритмізація та програмування/untitled28/cmake-build-debug/CMakeFiles/untitled28.dir
+D:/Університетські роботи/Алгоритмізація та програмування/untitled28/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Університетські роботи/Алгоритмізація та програмування/untitled28/cmake-build-debug/CMakeFiles/rebuild_cache.dir
